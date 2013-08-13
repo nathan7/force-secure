@@ -6,6 +6,7 @@
 ## API
 
   `app.use(require('force-secure'))`
+  Make sure to put it before any other middleware, especially `app.router`!
 
 ## Proxies
 
