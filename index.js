@@ -1,4 +1,5 @@
-module.exports = function(req, res, next) {
+exports = module.exports =
+function forceSecure(req, res, next) {
   if (req.secure) return next()
   res.statusCode = 301
   res.setHeader('Content-Type', 'text/plain')
