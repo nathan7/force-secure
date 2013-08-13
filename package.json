@@ -1,6 +1,6 @@
 {
   "name": "force-secure",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "force HTTPS connections to your app",
   "main": "index.js",
   "repository": {
