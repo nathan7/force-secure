@@ -1,0 +1,21 @@
+{
+  "name": "force-secure",
+  "version": "1.0.0",
+  "description": "force HTTPS connections to your app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/force-secure.git"
+  },
+  "keywords": [
+    "ssl",
+    "https",
+    "express",
+    "middleware"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/force-secure/issues"
+  }
+}
